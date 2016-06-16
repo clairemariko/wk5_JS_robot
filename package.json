@@ -1,0 +1,17 @@
+{
+  "name": "myrobot_jay_cc_cohort3",
+  "version": "1.0.0",
+  "description": "Friendly Robot",
+  "main": "robot.js",
+  "scripts": {
+    "test": "mocha robot_spec.js"
+  },
+  "author": "claire smith",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.6.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
